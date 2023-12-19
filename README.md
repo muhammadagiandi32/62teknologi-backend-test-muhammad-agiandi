@@ -18,10 +18,21 @@ Dependencies yang di gunakan
 
 ## Run
 
--   bash
+-   update / install composer
     ```sh
     composer update
     ```
+-   buat file .env dengan cara copy file .enc.example
+
+```sh
+AWS_ACCESS_KEY_ID=AKIA3BAW26X2UALRBL6D
+AWS_SECRET_ACCESS_KEY=UYoZnUipYRDxw82HuQouLYy6qY9jB4XyonWSNAZd
+AWS_DEFAULT_REGION=ap-southeast-1
+AWS_BUCKET=62-teknologi
+AWS_USE_PATH_STYLE_ENDPOINT=false
+```
+
+lalu masukkan access key AWS di atas
 
 ## Laravel Sponsors
 

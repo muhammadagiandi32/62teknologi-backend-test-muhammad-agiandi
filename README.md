@@ -22,7 +22,7 @@ Dependencies yang di gunakan
     ```sh
     composer update
     ```
--   buat file .env dengan cara copy file .enc.example
+-   buat file .env dengan cara copy file .env.example
 
 ```sh
 AWS_ACCESS_KEY_ID=AKIA3BAW26X2UALRBL6D

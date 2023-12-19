@@ -49,4 +49,4 @@ lalu masukkan access key AWS di atas
 
 ## Endpoind dan Dokumentasi Postman
 
-[Berikut endpoint dan dokumentasi request](https://apimuhagi.postman.co/documentation/15005997-84e1e686-7cff-478b-a6f3-15dda995743f/publish?workspaceId=89ac5158-b4cf-4b73-8ace-0709fe09fca2).
+[Berikut endpoint dan dokumentasi request](https://documenter.getpostman.com/view/15005997/2s9Ykod1qq).
